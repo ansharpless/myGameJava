@@ -1,0 +1,10 @@
+myGame plans for java
+classes need to be created for:
+
+main game
+introduction
+battle loop
+player attributes
+monster attributes
+game store
+filestream
